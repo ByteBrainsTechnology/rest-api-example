@@ -1,5 +1,6 @@
 package com.bytebrains.rest.model;
 
+
 public class Book {
 	private Long id;
 	private String title;
